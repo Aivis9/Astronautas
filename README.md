@@ -16,13 +16,17 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://aivis9.github.io/Astronautas/
 
-Design: [Serlokas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
+Design: [Astronautas](https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space?mode=media)
 
 ## 🎯 Project features/goals
 
 - Github pages
 - README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- super basic HTML/CSS
+- fixed-width content
+- '<header>', '<footer>'
+- FontAwesome font/icons
+- HTML entities
+- pseudo-elements
 
 ## 🧰 Getting Started
 
@@ -46,7 +50,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/front-end-by-rimantas/44-grupe-serlokas.git
+   git clone https://github.com/Aivis9/Astronautas.git
    ```
 2. Install NPM packages
    ```sh
