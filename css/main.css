@@ -17,6 +17,9 @@ header {
 
 img {
     height: 30px;
+    width: 200px;
+    object-fit: contain;
+    object-position: left;
 }
 
 nav {
